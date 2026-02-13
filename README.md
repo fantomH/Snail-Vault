@@ -1,0 +1,2 @@
+# Snail-Vault
+Shell utilities.

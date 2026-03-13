@@ -21,7 +21,7 @@ Usage: list_files --out VAR \[OPTIONS] \[--] [PATH...]
 ```
 #!/usr/bin/env sh
 
-source ../Snail-Vault/list_files.sh
+source ../Snail-Vault/list-files.sh
 
 files=()
 

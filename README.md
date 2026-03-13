@@ -8,9 +8,17 @@
 
 }}} -->
 
-# Snail-Vault
+<p align="center">
+  <img src="logo.png" width="300">
+</p>
 
-Shell utilities.
+<h1 align="center">Snail-Vault</h1>
+
+<p align="center">
+Reusable Shell Utilities
+</p>
+
+---
 
 ## List files
 

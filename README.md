@@ -8,18 +8,9 @@
 
 }}} -->
 
-<table>
-    <tr>
-        <td width="220">
-            <img src="logo.png" width="200">
-        </td>
-        <td>
-# Snail-Vault
+<img src="logo.png" width="200">
 
-Reusable Shell Utilities.
-        </td>
-    </tr>
-</table>
+# Snail-Vault
 
 Shell utilities designed to be **sourced in scripts**.
 

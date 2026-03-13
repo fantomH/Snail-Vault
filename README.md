@@ -8,17 +8,20 @@
 
 }}} -->
 
-<div align="center">
-
-<img src="logo.png" width="260">
-
+<table>
+    <tr>
+        <td width="220">
+            <img src="logo.png" width="200">
+        </td>
+        <td>
 # Snail-Vault
 
-Reusable Shell Utilities
+Reusable Shell Utilities.
+        </td>
+    </tr>
+</table>
 
-</div>
-
-<br>
+Shell utilities designed to be **sourced in scripts**.
 
 ## List files
 

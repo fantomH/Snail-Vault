@@ -8,17 +8,17 @@
 
 }}} -->
 
-<table>
-    <tr>
-    <td>
-        <img src="logo.png" width="300">
-    </td>
-    <td>
-        <h1>Snail-Vault</h1>
-        <p>Reusable Shell Utilities</p>
-    </td>
-    </tr>
-</table>
+<div align="center">
+
+<img src="logo.png" width="260">
+
+# Snail-Vault
+
+Reusable Shell Utilities
+
+</div>
+
+<br>
 
 ## List files
 

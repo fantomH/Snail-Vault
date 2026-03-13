@@ -20,7 +20,7 @@ List regular files from given paths.
 
 Usage: list_files --out VAR \[OPTIONS] \[--] [PATH...]
 
-```
+```bash
 #!/usr/bin/env sh
 
 source ../Snail-Vault/list-files.sh
